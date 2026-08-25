@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "pmg-cc-2026-2-diw-t3-6162103"
+assignment: "icei-diw-diw-cc-ap-semana-4"
+owner:
+  username: "Cardoso-G-Ao"
+  id: 172599175
+  accepted_at: "2026-08-25T10:47:29Z"
+source:
+  owner: "ICEI-DIW"
+  owner_id: 198835443
+  repo: "diw-atividade-4"
+  branch: "main"
