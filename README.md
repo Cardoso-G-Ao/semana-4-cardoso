@@ -9,12 +9,8 @@
 
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
+![Wireframe do projeto](public/imagens/prototico.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home page do projeto](public/imagens/Apaginainicial.png)
