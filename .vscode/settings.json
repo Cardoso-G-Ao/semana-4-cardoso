@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.suggest.quickSuggestions": {
+        "arguments": "on",
+        "commands": "on",
+        "unknown": "on"
+    },
+    "editor.quickSuggestions": {
+
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    }
+}
